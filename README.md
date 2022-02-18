@@ -12,7 +12,6 @@ This project is consists of statistical analysis and modeling them with plots an
    _Note: The link's repository is downloadable as ThinkStats2 package. You can find also his book as a guideline reference._
 - [Matplotlib](https://github.com/matplotlib/matplotlib)
 - [NumPy](https://github.com/numpy/numpy)
-- [Pandas](https://github.com/pandas-dev/pandas/)
 - [SciPy](https://github.com/scipy/scipy)
 
 
