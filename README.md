@@ -1,4 +1,4 @@
-# Exploratory Data Analysis - Project [ 2 ]
+# Data Analysis - Modeling Normal Distribution, CDF and CCDF
 In this project, I have used the information and data (```babyboom.dat```) provided by Prof. Allen Downey. The dataset is about the 44 babies were born on December 18, 1997, in a hospital in Brisbane, Australia[^1]. The time of birth for all 44 babies was reported in the local paper. The complete dataset can be found in [professor's repository](https://github.com/AllenDowney/ThinkStats2/blob/205bc5af51bf3c4872773bd808f58ed970b6cdd6/code/babyboom.dat), or in [this repository](/babyboom.dat). The goal of this project is to explore the given data, understand it and learn how to utilize it for data analysis by applying statistical analysis as it will be explained below.
 
 
